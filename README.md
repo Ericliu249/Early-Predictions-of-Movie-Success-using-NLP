@@ -1,7 +1,7 @@
 # Early-Predictions-of-Movie-Success-using-Social Media
 
 - Author: Yang Liu, Shuqiong Chen, Jingchen Lan, Jiawei Xue
-- Contact: yliu249@stevens.edu, eric.liu.249@gmail.com
+- Contact: eric.liu.249@gmail.com, yliu249@stevens.edu
 <br>
 
 
